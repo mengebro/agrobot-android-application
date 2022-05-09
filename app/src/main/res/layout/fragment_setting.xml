@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.SettingFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="30dp"
+            android:gravity="center"
+            android:text="@string/open"
+            android:textStyle="bold"
+
+            android:textSize="30sp"
+            android:layout_alignParentLeft="true" />
+        <ImageView
+
+            android:src="@drawable/home"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            />
+
+        <TextView
+            android:id="@+id/hom"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:textColor="#000000"
+            android:textSize="17dip"
+            android:text="@string/desc1"
+            android:scrollbars="vertical"
+            />
+
+        <ImageView
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:src="@drawable/control"
+            />
+        <TextView
+            android:id="@+id/cnt"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:textColor="#000000"
+            android:textSize="17dip"
+            android:text="@string/desc2"
+
+            android:scrollbars="vertical"
+            />
+        <ImageView
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:src="@drawable/manage"
+            />
+        <TextView
+            android:id="@+id/mng"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:textColor="#000000"
+            android:textSize="17dip"
+            android:text="@string/desc3"
+            android:scrollbars="vertical"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Applikeshinii Agrobot</string>
+
+    <string name="agrobot_control_app">appilikeeshinii tohannoo agrobot</string>
+
+    <string-array name="names">
+        <item>Please select a row distance</item>
+        <item>20 cm</item>
+        <item>15 cm</item>
+
+    </string-array>
+    <string name="home1">Agrobootii xaafii facaasu</string>
+    <string name="home2">Qabiyyee Ijoo</string>
+    <string name="func1">Sararaan Facaasuu</string>
+    <string name="fun4">itti gammadaa!</string>
+    <string name="func2">Oomisha Guddisuuf</string>
+    <string name="func3">Yeroo oomishaa hirrisuuf</string>
+
+
+    <string name="textdate">Guyyaa: </string>
+    <string name="hintdate">guyyaa </string>
+    <string name="generate">Qopheessi </string>
+
+    <string name="firstnameerr">maqaa jalqabaa galchi</string>
+    <string name="lasttnameerr">maqaa abbaa galchi</string>
+    <string name="emailerr">iimeelii dogogoraa</string>
+    <string name="passworderr">jecha darbii sirreessi</string>
+    <string name="conf_pass_err">jecha darbi mirkaneessi</string>
+    <string name="phoneerr">lakk. bilbila sirreessi</string>
+    <string name="usernameerr">maqaa itti fayyadamaa</string>
+
+
+    <string name="View_Fragment">View Fragment</string>
+    <string name="open">Baga gara appilikeeshinii agrobootii dhuftan!</string>
+    <string name="close">cufi</string>
+    <string name="password">jecha darbii</string>
+    <string name="confirm_password">jecha darbii mirkaneessi</string>
+    <string name="email">Iimeelii</string>
+    <string name="username">maqaa ittifayyadamaa</string>
+    <string name="login">Seeni</string>
+    <string name="signup">Sign up</string>
+    <string name="register">Galmmeessi</string>
+    <string name="firstname">MaqaaJalqabaa</string>
+    <string name="lastname">Maqaa Akaakayyuu</string>
+    <string name="phone_number">lakkoofsa bilbilaa</string>
+    <string name="critical">sanyiin dhume</string>
+
+    <string name="create_account">Akawuntii Banuuf?</string>
+
+
+    <string name="View">Ilaaluuf</string>
+    <string name="home">Fuula Jalqaba</string>
+    <string name="report">Gabaasa</string>
+    <string name="setting">Hojimaatawwan</string>
+
+    <string name="control">Tohachuu</string>
+    <string name="movement">Sochii Tohachuu</string>
+    <string name="speed">Saffisa Tohachuu</string>
+
+    <string name="manage">Sirreessuuf</string>
+    <string name="distance_in_meter">fageenya meetiraan</string>
+    <string name="input_distance">fageenya galchi</string>
+    <string name="order">Ajaji</string>
+
+    <string name="seed_level">sadarkaa sanyii</string>
+    <string name="position">bakka</string>
+    <string name="farmland_coverage">bakka qonnaan uffisame</string>
+
+    <string name="backward">duuba</string>
+    <string name="forward">fuuldura</string>
+
+
+    <string name="login_here">Seenuuf!</string>
+
+    <string name="desc1">
+        <br>
+            1.to view about home.\n</br>
+        <br>  2.to view report on farmlands covered.\n</br>
+        <br>
+        3.to view on the current conditions in the agrobot.\n</br>
+
+        <br>4.to control the movement and speed of robot.\n</br>
+        <br>
+        5.to manage the agrobot by giving input.\n</br>
+
+    </string>
+    <string name="desc2">
+        <br>
+            6.to move the robot forward.\n</br>
+        <br>  7.to move the robot backward.\n</br>
+        <br>
+        8.to control the speed of robot.\n</br>
+
+    </string>
+
+    <string name="desc3">
+        <br>
+            9.to order the robot to sow on inputted input.\n</br>
+           <br>  10.select the spacing between the rows.\n</br>
+
+    </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

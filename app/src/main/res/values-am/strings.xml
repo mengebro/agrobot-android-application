@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">አግሮቦት አፒልኬሽን</string>
+    <string name="open">እንኳን ወደ አግሮቦት አፒልኬሽን መጣቹ!</string>
+    <string name="close">ዝጋው</string>
+
+    <string-array name="names">
+        <item>Please select a Row distance</item>
+        <item>20 cm</item>
+        <item>15 cm</item>
+
+    </string-array>
+    <string name="home1">Teff Sowing Agrobot</string>
+    <string name="fun4">enjoy</string>
+    <string name="home2">Main Functionality</string>
+    <string name="func1">Row wise sowing</string>
+    <string name="func2">Increased Productivity</string>
+    <string name="func3">Reduced Time To sow</string>
+
+
+    <string name="textdate">ቀን : </string>
+    <string name="hintdate">ቀን </string>
+
+    <string name="generate">Generate </string>
+
+    <string name="lasttnameerr">የአያት ሥም</string>
+    <string name="emailerr">የተሳሳቴ ኢሜይል</string>
+    <string name="passworderr">የተሳሳቴ የይለፍ ቃል</string>
+    <string name="conf_pass_err">የይለፍ ቃሉ አይመሳሰሊም</string>
+    <string name="phoneerr">የተሳሳቴ ስልክ ቁጥር</string>
+
+    <string name="usernameerr">የተጠቃሚ ስም</string>
+    <string name="View_Fragment">View Fragment</string>
+    <string name="agrobot_control_app">አግሮቦት መቆጣጠርያ አፒልኬሽን</string>
+    <string name="password">የይለፍ ቃል</string>
+    <string name="username">የተጠቃሚ ስም</string>
+    <string name="confirm_password">የይለፍ ቃል አረጋግጥ</string>
+    <string name="email">ኢሜይል</string>
+    <string name="login">ግባ</string>
+    <string name="signup">Sign up</string>
+    <string name="register">መዝግብ</string>
+    <string name="firstname">የመጀመሪያ ስም</string>
+    <string name="lastname">የአያት ሥም</string>
+    <string name="phone_number">ስልክ ቁጥር</string>
+
+    <string name="create_account">መለያ ይፍጠሩ?</string>
+
+    <string name="View">ይመልከቱ</string>
+    <string name="home">መነሻ ገጽ</string>
+    <string name="report">ሪፖርት</string>
+    <string name="setting">ቅንብር</string>
+
+    <string name="control">መቆጣጠር</string>
+    <string name="movement">የእንቅስቃሴ መቆጣጠሪያ</string>
+    <string name="speed">የፍጥነት መቆጣጠሪያ</string>
+    <string name="order">ያዝዙት</string>
+    <string name="critical">Critical Level</string>
+
+    <string name="manage">አደራጅ</string>
+    <string name="distance_in_meter">ርቀት በሜትር</string>
+    <string name="input_distance">ግቤት ርቀት</string>
+
+    <string name="seed_level">የዘር ደረጃ</string>
+    <string name="position">ቦታ</string>
+    <string name="farmland_coverage">የእርሻ መሬት ሽፋን</string>
+
+    <string name="backward">ወደኋላ</string>
+    <string name="forward">ወደፊት</string>
+
+
+    <string name="login_here">እዚህ ይግቡ!</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="firstnameerr">"የመጀመሪያ ስም "</string>
+
+    <string name="desc1">
+        <br>
+            1.to view about home.\n</br>
+        <br>  2.to view report on farmlands covered.\n</br>
+        <br>
+        3.to view on the current conditions in the agrobot.\n</br>
+
+        <br>4.to control the movement and speed of robot.\n</br>
+        <br>
+        5.to manage the agrobot by giving input.\n</br>
+
+    </string>
+    <string name="desc2">
+        <br>
+            6.to move the robot forward.\n</br>
+        <br>  7.to move the robot backward.\n</br>
+        <br>
+        8.to control the speed of robot.\n</br>
+
+    </string>
+
+    <string name="desc3">
+        <br>
+            9.to order the robot to sow on inputted input.\n</br>
+           <br>  10.select the spacing between the rows.\n</br>
+
+    </string>
+</resources>

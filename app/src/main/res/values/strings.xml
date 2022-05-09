@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Agrobot App</string>
+
+    <string name="open">Welcome to Agrobot Application!</string>
+
+    <string-array name="names">
+        <item>Please select a row distance</item>
+        <item>20 cm</item>
+        <item>15 cm</item>
+
+    </string-array>
+
+    <string name="home1">Teff Sowing Agrobot</string>
+    <string name="fun4">Enjoy!</string>
+    <string name="home2">Main Functionality</string>
+    <string name="func1">Row wise sowing</string>
+    <string name="func2">Increased Productivity</string>
+    <string name="func3">Reduced Time To sow</string>
+
+    <string name="textdate">Input Date: </string>
+    <string name="hintdate">date </string>
+
+    <string name="generate">Generate </string>
+
+    <string name="firstnameerr">FirstName</string>
+    <string name="lasttnameerr">LastName</string>
+    <string name="emailerr">Email error</string>
+    <string name="passworderr">must contain small,capital and numbers</string>
+    <string name="conf_pass_err">password doesnot match</string>
+    <string name="usernameerr">Username</string>
+    <string name="phoneerr">phone error</string>
+
+    <string name="View_Fragment">View Fragment</string>
+
+    <string name="agrobot_control_app">Agrobot Control App</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign up</string>
+    <string name="register">Register</string>
+    <string name="firstname">FirstName</string>
+    <string name="lastname">LastName</string>
+    <string name="phone_number">phone number</string>
+
+    <string name="View">View</string>
+    <string name="home">Home</string>
+    <string name="report">Report</string>
+    <string name="setting">Setting</string>
+
+    <string name="create_account">Create Account?</string>
+
+    <string name="control">Control</string>
+    <string name="movement">Movement Control</string>
+    <string name="speed">Speed Control</string>
+
+    <string name="manage">Manage</string>
+    <string name="distance_in_meter">distance in meter</string>
+    <string name="input_distance">input distance</string>
+
+
+    <string name="backward">Backward</string>
+    <string name="forward">Forward</string>
+
+    <string name="login_here">Login Here!</string>
+
+    <string name="seed_level">Seed Level</string>
+    <string name="position">Position</string>
+    <string name="farmland_coverage">Farmland coverage</string>
+    <string name="critical">Critical Level</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="order">Order</string>
+    <string name="close">close</string>
+    <string name="desc1">
+        <br>
+            1.to view about home.\n</br>
+        <br>  2.to view report on farmlands covered.\n</br>
+        <br>
+        3.to view on the current conditions in the agrobot.\n</br>
+
+        <br>4.to control the movement and speed of robot.\n</br>
+        <br>
+        5.to manage the agrobot by giving input.\n</br>
+
+    </string>
+    <string name="desc2">
+        <br>
+            6.to move the robot forward.\n</br>
+        <br>  7.to move the robot backward.\n</br>
+        <br>
+        8.to control the speed of robot.\n</br>
+
+    </string>
+
+    <string name="desc3">
+        <br>
+            9.to order the robot to sow on inputted input.\n</br>
+           <br>  10.select the spacing between the rows.\n</br>
+
+    </string>
+
+</resources>

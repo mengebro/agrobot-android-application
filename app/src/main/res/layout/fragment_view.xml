@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.ViewFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+
+        android:text="@string/View_Fragment"
+        android:textSize="30sp"
+        android:layout_alignParentLeft="true" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="140dp"
+        android:layout_height="37dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginTop="189dp"
+        android:text="@string/position"
+        android:layout_marginLeft="19dp" />
+
+    <TextView
+        android:id="@+id/seedlev"
+        android:layout_width="142dp"
+        android:layout_height="35dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginTop="145dp"
+        android:text="@string/seed_level"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="39dp" />
+
+    <TextView
+        android:id="@+id/textView144"
+        android:layout_width="143dp"
+        android:layout_height="35dp"
+
+        android:layout_alignParentTop="true"
+
+        android:layout_marginStart="19dp"
+        android:layout_marginTop="235dp"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/pos"
+        android:layout_width="140dp"
+        android:layout_height="37dp"
+        android:layout_alignEnd="@+id/seed"
+        android:layout_alignTop="@+id/textView2"
+        android:text="@string/position"
+        android:layout_alignRight="@+id/seed" />
+
+    <TextView
+        android:id="@+id/seed"
+        android:layout_width="142dp"
+        android:layout_height="35dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/seedlev"
+        android:layout_marginEnd="28dp"
+        android:text="@string/seed_level"
+        android:layout_alignParentRight="true" />
+
+
+
+</RelativeLayout>
